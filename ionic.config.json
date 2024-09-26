@@ -1,0 +1,7 @@
+{
+  "name": "TugasAplikasiMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

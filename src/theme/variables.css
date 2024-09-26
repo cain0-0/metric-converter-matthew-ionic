@@ -1,0 +1,47 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+:root {
+	--ion-background-color: #ffffff; /* Mengganti warna latar belakang menjadi putih */
+	--ion-background-color-rgb: 255,255,255;
+
+	--ion-text-color: #007bff; /* Mengganti warna teks menjadi biru */
+	--ion-text-color-rgb: 0,123,255;
+
+	--ion-text-color-step-50: #f8f9fa;
+	--ion-text-color-step-100: #e9ecef;
+	--ion-text-color-step-150: #dee2e6;
+	--ion-text-color-step-200: #ced4da;
+	--ion-text-color-step-250: #adb5bd;
+	--ion-text-color-step-300: #6c757d;
+	--ion-text-color-step-350: #495057;
+	--ion-text-color-step-400: #343a40;
+	--ion-text-color-step-450: #212529;
+	--ion-text-color-step-500: #007bff; /* Biru utama untuk teks */
+	--ion-text-color-step-550: #0056b3;
+	--ion-text-color-step-600: #003f88;
+	--ion-text-color-step-650: #002855;
+	--ion-text-color-step-700: #001f3f;
+	--ion-text-color-step-750: #00122d;
+	--ion-text-color-step-800: #000a14;
+	--ion-text-color-step-850: #000307;
+	--ion-text-color-step-900: #000000;
+
+	--ion-background-color-step-50: #f8f9fa;
+	--ion-background-color-step-100: #e9ecef;
+	--ion-background-color-step-150: #dee2e6;
+	--ion-background-color-step-200: #ced4da;
+	--ion-background-color-step-250: #adb5bd;
+	--ion-background-color-step-300: #6c757d;
+	--ion-background-color-step-350: #495057;
+	--ion-background-color-step-400: #343a40;
+	--ion-background-color-step-450: #212529;
+	--ion-background-color-step-500: #ffffff; /* Putih untuk latar belakang */
+	--ion-background-color-step-550: #e9ecef;
+	--ion-background-color-step-600: #ced4da;
+	--ion-background-color-step-650: #adb5bd;
+	--ion-background-color-step-700: #6c757d;
+	--ion-background-color-step-750: #495057;
+	--ion-background-color-step-800: #343a40;
+	--ion-background-color-step-850: #212529;
+	--ion-background-color-step-900: #001f3f; /* Biru gelap */
+}
